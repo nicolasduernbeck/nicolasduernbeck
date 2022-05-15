@@ -14,9 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolaswebdeveloper&show_icons=true&locale=en&layout=compact" alt="nicolaswebdeveloper" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolaswebdeveloper&show_icons=true&locale=en" alt="nicolaswebdeveloper" /></p>
-<br />
-<br />
-<br />
-<br />
-<h3 align ="center">Trophäen</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswebdeveloper" alt="nicolaswebdeveloper" /></a> </p>
