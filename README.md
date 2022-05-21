@@ -4,4 +4,4 @@
 <h3 align="left">Currently learning with Angelas Bootcamp</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NicolasWebDeveloper&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasWebDeveloper&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&langs_count=2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasWebDeveloper&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&langs_count=3">
