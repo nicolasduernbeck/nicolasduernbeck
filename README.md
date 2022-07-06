@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Nicolas and I am a webdeveloper from Austria.
+My Name is Nicolas and I am a developer from Austria.
 
 
 ## 🌐 Socials:
