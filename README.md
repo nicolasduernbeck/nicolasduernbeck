@@ -15,7 +15,7 @@ Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicolasWebDeveloper&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐱‍👤 Codewars
+## 👤 Codewars
 ![](https://www.codewars.com/users/NicolasWebDeveloper/badges/large)
 
 ---
