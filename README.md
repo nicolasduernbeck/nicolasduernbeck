@@ -20,5 +20,9 @@ Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. 
 ## 👤 Codewars
 ![](https://www.codewars.com/users/NicolasWebDeveloper/badges/large)
 
+## 🔝JSChallenger
+
+![image](https://user-images.githubusercontent.com/90062200/188656678-3cc2967d-2e6c-4b9b-a5ce-38c8fd196539.png)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NicolasWebDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
