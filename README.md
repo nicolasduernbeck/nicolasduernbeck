@@ -19,7 +19,7 @@ Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. 
 
 ## 🔝JSChallenger
 
-![image](https://user-images.githubusercontent.com/90062200/188656678-3cc2967d-2e6c-4b9b-a5ce-38c8fd196539.png)
+![image](https://user-images.githubusercontent.com/90062200/192048148-144f5bcd-8dae-41bd-9847-33a50cf84a13.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NicolasWebDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
