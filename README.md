@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. In my free time I'm learning JS and soon vuejs. 
+Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. Currently learning Vue.js. 
 
 
 # 💻 Tech Stack:
