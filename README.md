@@ -8,7 +8,7 @@ Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. 
   
 # 📊 GitHub Stats:
 ![](https://activity-graph.herokuapp.com/graph?username=NicolasWebDeveloper&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=NicolasWebDeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NicolasWebDeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasWebDeveloper&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasWebDeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
