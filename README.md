@@ -22,3 +22,5 @@ Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. 
 
 ![image](https://user-images.githubusercontent.com/90062200/192048148-144f5bcd-8dae-41bd-9847-33a50cf84a13.png)
 
+---
+[![](https://visitcount.itsvg.in/api?id=NicolasWebDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
