@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, my name is Nicolas and I am an IT technician and hobbyist web developer. I just started to learn TypeScript and React.js.
+#### 🖐 Hello, my name is Nicolas and I am an IT technician and hobbyist web developer.
+#### 👨‍🎓 Currently learning TypeScript.
 
 
 # 💻 Tech Stack:
