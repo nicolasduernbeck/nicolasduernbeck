@@ -4,7 +4,7 @@
 
 
 # 💻 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,pug,css,js,ts,vue,vite,nodejs,lua,mongodb,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,vue,vite,nodejs,lua,mongodb,mysql,vscode)](https://skillicons.dev)
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NicolasWebDeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
