@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nicolasduernbeck&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 👤 Codewars
-![](https://www.codewars.com/users/NicolasWebDeveloper/badges/large)
+![](https://www.codewars.com/users/nicolasduernbeck/badges/large)
 
 ## 🔝JSChallenger
 
