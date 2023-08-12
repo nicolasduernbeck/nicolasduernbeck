@@ -1,6 +1,6 @@
 # 💫 About Me:
 #### 🖐 Hello, my name is Nicolas and I am an IT technician and hobbyist web developer.
-#### 👨‍🎓 Currently learning TypeScript.
+#### 👨‍🎓 Currently learning PowerShell and C#.
 
 
 # 💻 My Skills:
