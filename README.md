@@ -1,4 +1,5 @@
-![profile-banner](https://github.com/nicolasduernbeck/nicolasduernbeck/assets/90062200/b96f6be7-c40f-4e6b-bdda-4a20f40ea297)
+![image (1)](https://github.com/nicolasduernbeck/nicolasduernbeck/assets/90062200/4f66f69b-b215-4857-9927-4b354f0a0cda)
+
 # Hi there! 👋 I'm Nicolas Dürnbeck
 
 I'm an 18-year-old developer with a passion for web development, particularly in TypeScript, JavaScript, HTML, and CSS. Welcome to my GitHub profile!
